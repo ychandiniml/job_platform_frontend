@@ -1,8 +1,7 @@
-# React + Vite
+It's a MERN stack Job Seeking Web Platform.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Fontend : ReactJs
+Backend: NodeJS
+Database: MongoDB
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="1506" alt="image" src="https://github.com/ychandiniml/job_platform_frontend/assets/104729699/eb12d99e-e471-43f0-a39f-5c5a86d0f020">
